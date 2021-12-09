@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/WealthArc198609/7b37428a-f248-4a53-800d-f78340408719/b431cb2a-2aa8-4a8b-bebd-6045daccebd9/_apis/work/boardbadge/9aa681fd-a8f4-4eb0-a761-c25f0994e682)](https://dev.azure.com/WealthArc198609/7b37428a-f248-4a53-800d-f78340408719/_boards/board/t/b431cb2a-2aa8-4a8b-bebd-6045daccebd9/Microsoft.RequirementCategory)
 # Technical Case Studies
 
 | Customer  | Country        | Industry              | Size       | Key Technologies                         | Publish date |
